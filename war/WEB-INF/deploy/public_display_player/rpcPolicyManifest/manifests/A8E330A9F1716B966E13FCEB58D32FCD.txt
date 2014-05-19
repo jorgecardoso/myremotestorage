@@ -1,0 +1,2 @@
+serviceClass: org.jorgecardoso.pdplayer.client.StoreService
+path: 83A7ABF23CCF6E71CFB48855EF6811A1.gwt.rpc
