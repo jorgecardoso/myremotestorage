@@ -1,0 +1,2 @@
+serviceClass: org.jorgecardoso.remotestorage.client.StoreService
+path: 87BB2146FD3EE65F013AD2E3FEC8EDB0.gwt.rpc
